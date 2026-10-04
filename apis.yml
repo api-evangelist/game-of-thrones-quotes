@@ -39,7 +39,6 @@ apis:
   - name: Game of Thrones Quotes
     description: "Some Game of Thrones quotes"
     humanURL: https://gameofthronesquotes.xyz/
-    baseURL: https://gameofthronesquotes.xyz/
     tags:
       - Video
     properties:
